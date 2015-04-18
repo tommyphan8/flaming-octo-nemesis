@@ -15,7 +15,7 @@ print ("Alice pics a random postive number x in Zp: "),  x
 print ("Alice computes X and sends to Bob: "), X1
 
 print ("Bob pics a random postive number y in Zp: "), y  
-print ("Bob computes X and sends to Alice: "), Y1
+print ("Bob computes Y and sends to Alice: "), Y1
 
 print ("K1: "), K1
 print ("K2: "), K2
